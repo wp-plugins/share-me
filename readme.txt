@@ -23,9 +23,9 @@ Icons size 16 px / 20 px / 32 px
 <strong>Included social Networks :</strong>   
 Facebook	
 Twitter     
-Googleplus          
+Googleplus       
 Tumblr      
-Linkedin    
+Linkedin        
 Blogger     
 
 <strong>Included Icon Sets :</strong>  
