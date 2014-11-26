@@ -25,8 +25,7 @@ Facebook
 Twitter	
 Googleplus	
 Tumblr	
-Linkedin	
-Flickr	
+Linkedin 
 Blogger
 
 <strong>Included Icon Sets :</strong>  
