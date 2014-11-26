@@ -44,5 +44,5 @@ Simple
 Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
  
 <strong>Can i add my own icons to the plugin?</strong>   
-Yes. Using an FTP client, navigate to the "iconset: folder under the wp-content/plugins/share-me/images in your wordpress installation.  Now Create a new folder for your custom iconset, naming it accordingly.  Add your icons (.png format, preferably 32px x 32px size). Refresh.  The new iconset will be appear in the themes selection in the plugin settings.       
+Yes. Using an FTP client, navigate to the "iconset: folder under the wp-content/plugins/share-me/assets/images in your wordpress installation.  Now Create a new folder for your custom iconset, naming it accordingly.  Add your icons (.png format, preferably 32px x 32px size). Refresh.  The new iconset will be appear in the themes selection in the plugin settings.       
  
