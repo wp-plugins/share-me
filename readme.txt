@@ -37,8 +37,8 @@ Ribbon
 Simple
 
 == Screenshots ==
-This is the first screen shot from the Admin Pannel : `/assets/screenshot-1.png`   
-This is the second screen shot from the front Home page : `/assets/screenshot-2.png`    
+1. This is the first screen shot from the Admin Pannel  
+2. This is the second screen shot from the front Home page  
 
 
  == Installation ==     
