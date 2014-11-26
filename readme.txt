@@ -22,11 +22,11 @@ Icons size 16 px / 20 px / 32 px
 
 <strong>Included social Networks :</strong>   
 Facebook	
-Twitter	
-Googleplus	
-Tumblr	
-Linkedin 
-Blogger
+Twitter     
+Googleplus          
+Tumblr      
+Linkedin    
+Blogger     
 
 <strong>Included Icon Sets :</strong>  
 Cercle		            	
