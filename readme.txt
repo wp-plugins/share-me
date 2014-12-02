@@ -38,6 +38,7 @@ Simple
 == Screenshots ==
 1. This is the first screen shot from the Admin Pannel  
 2. This is the second screen shot from the front Home page  
+3. This is the third screen shot from the front Home page on mobile sceen
 
 
  == Installation ==     
