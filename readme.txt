@@ -29,11 +29,13 @@ Linkedin
 Blogger     
 
 <strong>Included Icon Sets :</strong>  
-Cercle		            	
-Elegent		            	
-Minimalist		            	
-Ribbon		            	
-Simple
+Apricum			          	
+Cercle				          	
+Elegent				          	
+Leaf				          	
+Minimalist				          	
+Ribbon				          	
+Simple		
 
 == Screenshots ==
 1. This is the first screen shot from the Admin Pannel  
