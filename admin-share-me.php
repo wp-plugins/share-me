@@ -16,7 +16,7 @@ if (isset($_POST['theme'])) {
     foreach ($_POST['status'] as $theme) {
         $wpdb->update(SM_TABLE_PREFIX . "social_list", array('status' => 1), array('name' => $theme));
     }
-    var_dump($_POST['status']);
+ 
     $wpdb->update(SM_TABLE_PREFIX . "config", array('theme' => $_POST['theme'], 'v_pos' => $_POST['v_pos'], 'h_pos' => $_POST['h_pos'], 'size' => $_POST['size']),array('id' => 1));
 
     add_action('save_post', 'notify');
