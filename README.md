@@ -4,7 +4,7 @@ Contributors: tarek.chida
 Donate link:  http://tarek-chida.url.ph/    
 Tags: share, social networks, posts, icons  
 Requires at least: 3.0 or higher  
-Tested up to: 4.0   
+Tested up to: 4.2.1     
 Stable tag: 4.3
 License: GPLv2 or later 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html   
@@ -29,11 +29,13 @@ Linkedin
 Blogger 
 
 <h4>Included Icon Sets :</h4>  
-Cercle		            	
-Elegent		            	
-Minimalist		            	
-Ribbon		            	
-Simple
+Apricum			          	
+Cercle				          	
+Elegent				          	
+Leaf				          	
+Minimalist				          	
+Ribbon				          	
+Simple	
 
 <h3> Screenshots </h3>   
 This is the first screen shot from the Admin Pannel : `/assets/screenshot-1.png`   
